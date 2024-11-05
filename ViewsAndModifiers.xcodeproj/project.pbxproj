@@ -13,6 +13,7 @@
 		E43C753D2CDA187B0043F11C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E43C753C2CDA187B0043F11C /* Preview Assets.xcassets */; };
 		E43C75442CDA208B0043F11C /* CustomContainers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43C75432CDA208B0043F11C /* CustomContainers.swift */; };
 		E43C75462CDA22820043F11C /* ConditionalModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43C75452CDA22820043F11C /* ConditionalModifiers.swift */; };
+		E43C75482CDA22C70043F11C /* EnvironmentModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43C75472CDA22C70043F11C /* EnvironmentModifiers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E43C753C2CDA187B0043F11C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E43C75432CDA208B0043F11C /* CustomContainers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomContainers.swift; sourceTree = "<group>"; };
 		E43C75452CDA22820043F11C /* ConditionalModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalModifiers.swift; sourceTree = "<group>"; };
+		E43C75472CDA22C70043F11C /* EnvironmentModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentModifiers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E43C753B2CDA187B0043F11C /* Preview Content */,
 				E43C75432CDA208B0043F11C /* CustomContainers.swift */,
 				E43C75452CDA22820043F11C /* ConditionalModifiers.swift */,
+				E43C75472CDA22C70043F11C /* EnvironmentModifiers.swift */,
 			);
 			path = ViewsAndModifiers;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E43C75382CDA187A0043F11C /* ContentView.swift in Sources */,
+				E43C75482CDA22C70043F11C /* EnvironmentModifiers.swift in Sources */,
 				E43C75362CDA187A0043F11C /* ViewsAndModifiersApp.swift in Sources */,
 				E43C75442CDA208B0043F11C /* CustomContainers.swift in Sources */,
 				E43C75462CDA22820043F11C /* ConditionalModifiers.swift in Sources */,
