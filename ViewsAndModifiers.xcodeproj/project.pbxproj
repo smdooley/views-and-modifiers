@@ -17,6 +17,7 @@
 		E43C754A2CDA23280043F11C /* ViewsAsProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43C75492CDA23280043F11C /* ViewsAsProperties.swift */; };
 		E43C754C2CDA24180043F11C /* ViewComposition.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43C754B2CDA24180043F11C /* ViewComposition.swift */; };
 		E43C754E2CDA24D30043F11C /* CustomModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43C754D2CDA24D30043F11C /* CustomModifiers.swift */; };
+		E4B880872CDA28B400270BF9 /* Challenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B880862CDA28B400270BF9 /* Challenge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		E43C75492CDA23280043F11C /* ViewsAsProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsAsProperties.swift; sourceTree = "<group>"; };
 		E43C754B2CDA24180043F11C /* ViewComposition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewComposition.swift; sourceTree = "<group>"; };
 		E43C754D2CDA24D30043F11C /* CustomModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModifiers.swift; sourceTree = "<group>"; };
+		E4B880862CDA28B400270BF9 /* Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				E43C75492CDA23280043F11C /* ViewsAsProperties.swift */,
 				E43C754B2CDA24180043F11C /* ViewComposition.swift */,
 				E43C754D2CDA24D30043F11C /* CustomModifiers.swift */,
+				E4B880862CDA28B400270BF9 /* Challenge.swift */,
 			);
 			path = ViewsAndModifiers;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E43C75382CDA187A0043F11C /* ContentView.swift in Sources */,
+				E4B880872CDA28B400270BF9 /* Challenge.swift in Sources */,
 				E43C754A2CDA23280043F11C /* ViewsAsProperties.swift in Sources */,
 				E43C75482CDA22C70043F11C /* EnvironmentModifiers.swift in Sources */,
 				E43C75362CDA187A0043F11C /* ViewsAndModifiersApp.swift in Sources */,
