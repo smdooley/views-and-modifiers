@@ -16,6 +16,7 @@
 		E43C75482CDA22C70043F11C /* EnvironmentModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43C75472CDA22C70043F11C /* EnvironmentModifiers.swift */; };
 		E43C754A2CDA23280043F11C /* ViewsAsProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43C75492CDA23280043F11C /* ViewsAsProperties.swift */; };
 		E43C754C2CDA24180043F11C /* ViewComposition.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43C754B2CDA24180043F11C /* ViewComposition.swift */; };
+		E43C754E2CDA24D30043F11C /* CustomModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43C754D2CDA24D30043F11C /* CustomModifiers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		E43C75472CDA22C70043F11C /* EnvironmentModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentModifiers.swift; sourceTree = "<group>"; };
 		E43C75492CDA23280043F11C /* ViewsAsProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsAsProperties.swift; sourceTree = "<group>"; };
 		E43C754B2CDA24180043F11C /* ViewComposition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewComposition.swift; sourceTree = "<group>"; };
+		E43C754D2CDA24D30043F11C /* CustomModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModifiers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				E43C75472CDA22C70043F11C /* EnvironmentModifiers.swift */,
 				E43C75492CDA23280043F11C /* ViewsAsProperties.swift */,
 				E43C754B2CDA24180043F11C /* ViewComposition.swift */,
+				E43C754D2CDA24D30043F11C /* CustomModifiers.swift */,
 			);
 			path = ViewsAndModifiers;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				E43C75482CDA22C70043F11C /* EnvironmentModifiers.swift in Sources */,
 				E43C75362CDA187A0043F11C /* ViewsAndModifiersApp.swift in Sources */,
 				E43C754C2CDA24180043F11C /* ViewComposition.swift in Sources */,
+				E43C754E2CDA24D30043F11C /* CustomModifiers.swift in Sources */,
 				E43C75442CDA208B0043F11C /* CustomContainers.swift in Sources */,
 				E43C75462CDA22820043F11C /* ConditionalModifiers.swift in Sources */,
 			);
